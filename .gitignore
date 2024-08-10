@@ -11,3 +11,6 @@ package-lock.json
 
 .DS_Store
 src/.DS_Store
+zkout/
+lib/
+broadcast/
